@@ -2,33 +2,111 @@
 <urlset 
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  
-  <!-- Homepage Images -->
   <url>
-    <loc>https://drcapoteoficial.com/</loc>
-    <lastmod>2025-12-18</lastmod>
+    <loc>https://drjaviooficial.com/</loc>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    
-    <!-- Cover Image -->
     <image:image>
-      <image:loc>https://drcapoteoficial.com/assets/cover.jpg</image:loc>
-      <image:title>Dr Capote - Cuban Reggaeton Artist</image:title>
-      <image:caption>Official cover photo of Dr Capote, the first gay Cuban reggaeton artist</image:caption>
+      <image:loc>https://drjaviooficial.com/assets/cover.jpg</image:loc>
+      <image:title>Dr Javio - Cuban Reggaeton Artist</image:title>
+      <image:caption>Official cover photo of Dr Javio, the first gay Cuban reggaeton artist</image:caption>
     </image:image>
-    
-    <!-- Logo -->
     <image:image>
-      <image:loc>https://drcapoteoficial.com/assets/logo.png</image:loc>
-      <image:title>Dr Capote Logo</image:title>
+      <image:loc>https://drjaviooficial.com/assets/logo.png</image:loc>
+      <image:title>Dr Javio Logo</image:title>
     </image:image>
-    
-    <!-- Hero Section Image -->
     <image:image>
-      <image:loc>https://drcapoteoficial.com/assets/herosection%20image.jpg</image:loc>
-      <image:title>Dr Capote - Hero Section</image:title>
-      <image:caption>Dr Capote - The Gay King of Reggaeton</image:caption>
+      <image:loc>https://drjaviooficial.com/assets/herosection%20image.jpg</image:loc>
+      <image:title>Dr Javio - Hero Section</image:title>
+      <image:caption>Dr Javio - The Gay King of Reggaeton</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/section2.jpg</image:loc>
+      <image:title>Dr Javio - Album Section</image:title>
+      <image:caption>Dr Javio studio and promotional photo</image:caption>
     </image:image>
   </url>
-  
+  <url>
+    <loc>https://drjaviooficial.com/biography.html</loc>
+    <lastmod>2026-07-24</lastmod>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/cover.jpg</image:loc>
+      <image:title>Dr Javio Portrait - Biography</image:title>
+      <image:caption>Dr Javio portrait for biography page</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://drjaviooficial.com/music.html</loc>
+    <lastmod>2026-07-24</lastmod>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/cover.jpg</image:loc>
+      <image:title>Dr Javio Album Cover - Music</image:title>
+      <image:caption>Official album cover art for Dr Javio releases</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/section2.jpg</image:loc>
+      <image:title>Dr Javio Single Cover</image:title>
+      <image:caption>Dr Javio single release photo</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://drjaviooficial.com/tour.html</loc>
+    <lastmod>2026-07-24</lastmod>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/cover.jpg</image:loc>
+      <image:title>Dr Javio Live Performance</image:title>
+      <image:caption>Dr Javio tour and live performance image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://drjaviooficial.com/gallery.html</loc>
+    <lastmod>2026-07-24</lastmod>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/gallery/IMG_5099.jpg</image:loc>
+      <image:title>Dr Javio Style Portrait</image:title>
+      <image:caption>Dr Javio style and identity portrait</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/gallery/IMG_5775.png</image:loc>
+      <image:title>Dr Javio Visual Promo</image:title>
+      <image:caption>Dr Javio - El Rey Gay Del Cuba promo photo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/gallery/IMG_5103.jpg</image:loc>
+      <image:title>Dr Javio Studio Recording</image:title>
+      <image:caption>Dr Javio studio session behind the scenes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/gallery/IMG_5776.png</image:loc>
+      <image:title>Dr Javio La Serpiente Roja</image:title>
+      <image:caption>Dr Javio portrait - La Serpiente Roja</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/gallery/IMG_5779.jpg</image:loc>
+      <image:title>Dr Javio Production Session</image:title>
+      <image:caption>Dr Javio music production session photo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/cover.jpg</image:loc>
+      <image:title>Dr Javio Official Portrait</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/herosection%20image.jpg</image:loc>
+      <image:title>Dr Javio Promo Shot</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/section2.jpg</image:loc>
+      <image:title>Dr Javio Studio Session</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://drjaviooficial.com/press.html</loc>
+    <lastmod>2026-07-24</lastmod>
+    <image:image>
+      <image:loc>https://drjaviooficial.com/assets/cover.jpg</image:loc>
+      <image:title>Dr Javio Press Photo</image:title>
+      <image:caption>Official press photo of Dr Javio for media use</image:caption>
+    </image:image>
+  </url>
 </urlset>
